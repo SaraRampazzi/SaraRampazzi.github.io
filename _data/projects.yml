@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+# BDS
+- project: BDS
+  role: Firmware developer
+  duration: Oct 2016 &mdash; Jun 2017
+  url: "https://www.bluedanube.com/"
+  description: Embedded software and firmware development for new generation LTE platform using on cell towers. Developing and testing C API and application programs in Yocto Linux distributions for ARM architecture.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+# EUCLID
+- project: EUCLID
+  role: Software developer
+  duration: Oct 2015 &mdash; Sept 2016
+  url: "https://www.euclid-ec.org/"
+  description: Embedded software development for EUCLID spacecraft Command and Data Handling (C&DH), system and orbit control. Developing and testing C code MISRA compliant using IBM Rational Rhapsody, LogicScope and Cantata tools.
+
+# Fiat GM
+- project: Fiat General Motors
+  role: Model Based Design Engineer
+  duration: Feb 2015 &mdash; Sept 2015
+  url: "https://www.fcagroup.com/en-US/Pages/home.aspx"
+  description: Model Based Design software developer for Automotive Systems (HMI car dashboards). Developing and tested Simulink/StateFlow models using Mathworks dSpace Target Link

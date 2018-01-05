@@ -12,11 +12,11 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Sara Rampazzi"
 resume_title:                   "Computer Science Research Affiliate"
-resume_contact_email:           "srampazz@umich.edu"
-resume_contact_telephone:       "+1 (734)8810610"
-#resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_email:           "srampazz at umich.edu"
+resume_contact_telephone:       "+1 (734) 8810610"
+#resume_contact_address:         "University of Michigan, Computer Science and Engineering Bob & Betty Beyster Building, 2260 Hayward Street, Ann Arbor, MI 48109-2121"
 resume_header_contact_info: "<p><img src='images/ph.png' alt='tel' class='icon-link' align='top'> +1 (734) 8810610 &emsp; &emsp; <img src='images/ml.png' alt='mail' class='icon-link' align='top'> srampazz@umich.edu </p> "
-resume_header_intro: "<p>I'm a Computer Science Engineer working on embedded system security with professor <a href='https://web.eecs.umich.edu/~kevinfu/'>Kevin Fu</a> at <a href='https://www.cse.umich.edu/'>Michigan University</a> - <a href='https://spqr.eecs.umich.edu/'>SPQR laboratory</a>.</p><p> Basically I run models, write software and hack hardware to make cool stuff.</p>"
+resume_header_intro: "<p>I'm a Computer Science Engineer working on embedded system security with professor <a href='https://web.eecs.umich.edu/~kevinfu/'>Kevin Fu</a> at <a href='https://www.cse.umich.edu/'>Michigan University</a> - <a href='https://spqr.eecs.umich.edu/people.php'>SPQR laboratory</a>.</p><p> My reserch areas include embedded security, embedded systems with application to medical devices, automotive, LTE communication network, and aerospace.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

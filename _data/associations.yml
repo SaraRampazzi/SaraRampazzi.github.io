@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Beer for the World
+- organization: Peer Reviewer - Sensor (ISSN 1424-8220)
   role: Volunteer
-  year: 2008 &mdash; Present
-  url: http://beerfortheworld.com
-  summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
+  year: 2014 &mdash; Present
+  url: http://www.mdpi.com/journal/sensors
+  summary: <a "href=publons.com/a/1223452/">Publons reference</a>
 
 
-- organization: Springfield Nuclear Workers Labor Union
-  role: Member in Good Standing
-  year: 1994 &mdash; Present
-  url: http://snwlu.org
-  summary: Founding member of the local nuclear workers labor union.
+- organization: IEEE Student Branch Computer Science Area Advisor for University of Pavia
+  role: Volunteer
+  year: 2011 &mdash; 2014
+  url: http://ieee.unipv.it/
+  summary: Introducing computer science engineering undergraduate students to research and encouraging them to meet and share their ideas in their areas of interest and future profession.

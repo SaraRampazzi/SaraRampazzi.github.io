@@ -54,7 +54,7 @@
 
     .header-title {
       @include sans;
-      font-weight: 300;
+      font-weight: 200;
       font-size: 1.75rem;
       line-height: 2rem;
       letter-spacing: -.05rem;
@@ -128,21 +128,21 @@
 // resume content styles
 
 .content-section {
-  margin: 0 0 3rem;
+  margin: 0 0 2rem;
 
   .resume-item { margin-bottom: 2rem; }
 
   .resume-item-title {
     @include sans_bold;
-    margin: 0 0 .75rem;
-    font-size: 1.125rem;
+    margin: 0 0 .50rem;
+    font-size: 1rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
 
   .resume-item-details {
     font-size: 1rem;
-    margin: 0 0 .75rem;
+    margin: 0 0 .25rem;
     line-height: 1;
 
     &.award-title {

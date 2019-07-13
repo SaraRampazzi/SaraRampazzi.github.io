@@ -1,0 +1,8 @@
+@inproceedings{ccs:2019:yulong:adv-lidar,
+  title={{Adversarial Sensor Attack on LiDAR-based Perception in Autonomous Driving}},
+  author={Yulong Cao and Chaowei Xiao and Benjamin Cyr and Yimeng Zhou and Won Park and Sara Rampazzi and Qi Alfred Chen and Kevin Fu and Zhuoqing Morley Mao},
+  booktitle={Proceedings of the 26th ACM Conference on Computer and Communications Security (CCS'19)},
+  year={2019},
+  month = {November},
+  address = {London, UK}
+}

@@ -1,0 +1,5 @@
+@inproceedings{Sugawara2020LightCommands,
+    author = {Sugawara, Takeshi and Cyr, Benjamin and Rampazzi, Sara and Genkin, Daniel and Fu, Kevin},
+    title = {Light Commands: Laser-Based Audio Injection on Voice-Controllable Systems},
+    year = {2019}
+}

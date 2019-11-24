@@ -1,17 +1,11 @@
-@article{10.1093/bioinformatics/bty746,
-    author = {Marini, Simone and Vitali, Francesca and Rampazzi, Sara and Demartini, Andrea and Akutsu, Tatsuya},
-    title = "{Protease target prediction via matrix factorization}",
-    journal = {Bioinformatics},
-    volume = {35},
-    number = {6},
-    pages = {923-929},
-    year = {2018},
-    month = {08},
-    abstract = "{Protein cleavage is an important cellular event, involved in a myriad of processes, from apoptosis to immune response. Bioinformatics provides in silico tools, such as machine learning-based models, to guide the discovery of targets for the proteases responsible for protein cleavage. State-of-the-art models have a scope limited to specific protease families (such as Caspases), and do not explicitly include biological or medical knowledge (such as the hierarchical protein domain similarity or gene–gene interactions). To fill this gap, we present a novel approach for protease target prediction based on data integration.By representing protease-protein target information in the form of relational matrices, we design a model (i) that is general and not limited to a single protease family, and (b) leverages on the available knowledge, managing extremely sparse data from heterogeneous data sources, including primary sequence, pathways, domains and interactions. When compared with other algorithms on test data, our approach provides a better performance even for models specifically focusing on a single protease family.https://gitlab.com/smarini/MaDDA/ (Matlab code and utilized data.)Supplementary data are available at Bioinformatics online.}",
-    issn = {1367-4803},
-    doi = {10.1093/bioinformatics/bty746},
-    url = {https://doi.org/10.1093/bioinformatics/bty746},
-    eprint = {http://oup.prod.sis.lan/bioinformatics/article-pdf/35/6/923/28079238/bty746.pdf},
+@article{marini2018protease,
+  title={Protease target prediction via matrix factorization},
+  author={Marini, Simone and Vitali, Francesca and Rampazzi, Sara and Demartini, Andrea and Akutsu, Tatsuya},
+  journal={Bioinformatics},
+  volume={35},
+  number={6},
+  pages={923--929},
+  year={2018},
+  publisher={Oxford University Press}
 }
-
 

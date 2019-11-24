@@ -1,8 +1,8 @@
-@inproceedings{ccs:2019:tu2019trick,
-  title={Trick or Heat? Attack on Amplification Circuits to Abuse Critical Temperature Control Systems},
+@inproceedings{tu2019trick,
+  title={Trick or Heat?: Manipulating Critical Temperature-Based Control Systems Using Rectification Attacks},
   author={Tu, Yazhou and Rampazzi, Sara and Hao, Bin and Rodriguez, Angel and Fu, Kevin and Hei, Xiali},
-  booktitle={Proceedings of the 26th ACM Conference on Computer and Communications Security (CCS'19)},
+  booktitle={Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={2301--2315},
   year={2019},
-  month = {November},
-  address = {London, UK}
+  organization={ACM}
 }

@@ -187,6 +187,10 @@ section.resume-section .resume-item .resume-date {
   color: #3885BD !important;
 }
 
+div: text-secondary {
+  color: #D04907 !important;
+}
+
 a {
   color: #3885BD;
 }
